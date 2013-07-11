@@ -14,7 +14,7 @@ $sql = "insert into biaodan(username,pass,sex) values('$username','$pass','$sex'
 	}
 	if(empty($username)){
 		echo "姓名不能为空<br>";
-		echo  "<a href='aa.php'>继续注册</a>";
+		echo  "<a href='aa.php'>继续注册</a>";f
 		exit;
 	}
 	$pattern="/^\w{6,}$/";

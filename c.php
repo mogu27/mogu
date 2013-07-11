@@ -11,4 +11,4 @@
 	}
 	echo "<a href='aa.php'>继续注册</a>";
 
-?>
+?>fd
